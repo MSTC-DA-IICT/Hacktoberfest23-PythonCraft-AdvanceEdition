@@ -10,7 +10,7 @@ Feel free to contribute and bring new energy to this project!
 
 ---
 
->This is a Advance Python project for Hactoberfest 2022, maintained by MSTC DA-IICT.
+>This is a Advance Python project for Hactoberfest 2023, maintained by MSTC DA-IICT.
 
 >Here we are going to develop solution for a relatively advanced problem using Python.
 
