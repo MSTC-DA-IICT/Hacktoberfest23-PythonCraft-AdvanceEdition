@@ -4,7 +4,7 @@ import time
 import tkinter as tk
 ctk.set_appearance_mode('dark')
 
-def change_mode():
+def toggle_mode():
     # Complete this function to switch between dark and light mode
     pass
 
@@ -19,9 +19,10 @@ def insertion_sort(arr):
 def reset_data():
     # Complete this funciton to again ask the user to reset the data
     pass
+def set_data():
+    # Complete this funciton to again ask the user to for the data
 
 # Create a button here to start the visualization
-
 
 
 
@@ -45,6 +46,16 @@ def reset_data():
 # Create a frame for canvas with its width and height compatible to the screen
 
 
+
+
+
+# Create a button to toggle modes
+
+
+
+    
+
+# Create a Entry button here to set the input array
 
 
 
