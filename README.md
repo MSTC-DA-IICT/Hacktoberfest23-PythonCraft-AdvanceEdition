@@ -30,7 +30,7 @@ Feel free to contribute and bring new energy to this project!
 
 ### 🌐 sources you may need
   * [PYTHON](https://docs.python.org/3/)
-  * [Tkinter](https://docs.python.org/3/library/tk.html,https://github.com/TomSchimansky/CustomTkinter)
+  * [Tkinter](https://docs.python.org/3/library/tk.html)
   * [Pygame](https://www.pygame.org/docs/)
   * [Turtle](https://docs.python.org/3/library/turtle.html)
   * [NumPy](https://numpy.org/)
